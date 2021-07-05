@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    margin: 0%;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.conten1{
+    display: flex;
+
+    
+}
+.font-1st{
+    color: tomato;
+    
+}
+.green{
+    color: green;
+}
+.img-1-2{
+    height: 313px;
+    width: 57%;
+    margin-left: 154px;
+    margin-top: 28px;
+}
+.text1{
+    margin-left: 56px;
+    margin-top: 121px;
+    width: 45%;
+
+}
+.img-2-1{
+    width: 45%;
+}
+.button-1st{
+    background-image: linear-gradient(to right, tomato , rgb(176 206 12) );
+    border-radius: 19px;
+    text-decoration: none;
+    text-align: center;
+    padding: 11px;
+    color: white;
+    font-size: 18px;
+    margin-left: 15px;
+
+}
+.contanter1{
+    margin-bottom: 40px;
+    
+}
+.contanter2{
+    margin-right: 80px;
+    margin-bottom: 35px;
+    
+}
+.conten2{
+    display: flex;
+    background-repeat: no-repeat;
+    background-image: url(images/shapes/7.png);
+    margin-bottom: 127px;
+}
+.img-2-2{
+    height: 313px;
+    width: 57%;
+    margin-left: 154px;
+    margin-top: 28px;
+}
+.text-2{
+    margin-left: 56px;
+    margin-top: 121px;
+    width: 45%;
+
+}
+.list-recipes{
+
+}
+.my-recipes{
+    color: hotpink;
+    font-size: 46px;
+    text-align: center;
+    margin-bottom: 48px;
+}
+.food-family{
+    text-align: center;
+    margin-bottom: -10px;
+}
+.food-family-1{
+    text-align: center;
+}
+
+.conteater-img{
+    display: flex;
+    
+}
+.image-siz{
+    width: 321px;
+    height: 269px;
+    margin-left: 22px;
+    border-radius: 32px;
+    margin-top: 19px;
+    margin-bottom: 22px;
+}
+.text-food{
+    text-align: justify;
+    padding: 25px;
+}
+.food-title{
+    
+    text-align: justify;
+    color: orange;
+    margin: 13px;
+    margin-bottom: -9px;
+    margin-left: 25px;
+
+}
+.text-img{
+    padding: 31px;
+    margin: 17px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    height: 462px;
+    border-radius: 38px;
+    width: 27%;
+}
+.cont-3rd{
+    margin-bottom: 69px;
+}
+.Subs{
+    display: flex;
+    width: 100%;
+}
+.text-ext{
+    text-align: center;
+    width: 19%;
+    margin-left: 140px;
+    margin-top: 44px;
+    margin-bottom: 44px;
+}
+.like{
+    font-weight: 900;
+}
+.text-y{
+    margin-left: 92px;
+    margin-top: -15px;
+}
+.fhead{
+    padding-top: 34px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 159px;
+}
+.fp{
+    margin-top: 55px;
+    font-size: 10px;
+}
+ span{
+     color: indianred;
+}
+.img-1-1{
+    width: 45%;
+}
