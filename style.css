@@ -32,6 +32,10 @@ body{
 .img-2-1{
     width: 45%;
 }
+.button-1st:hover{
+   color: red;
+   text-decoration: underline;
+}
 .button-1st{
     background-image: linear-gradient(to right, tomato , rgb(176 206 12) );
     border-radius: 19px;
