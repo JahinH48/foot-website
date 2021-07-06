@@ -165,3 +165,37 @@ body{
 .img-1-1{
     width: 45%;
 }
+header{
+    background-color: #333;
+    display: flex;
+    padding-left: 75px;
+}
+.fast-nav{
+    width: 50%;
+}
+.seend {
+    overflow: hidden;
+    background-color: #333;
+    width: 50%;;
+   }
+   .nav-image{
+    height: 44px;
+    width: 68px;
+    margin-top: 12px;
+
+   }
+   
+   .seend a {
+    float: left;
+    display: block;
+    color: #bbefab;
+    text-align: center;
+    padding: 18px 37px;
+    text-decoration: none;
+    font-size: 28px;
+   }
+   
+   .seend a:hover {
+     background-color: rgb(106, 159, 238);
+     color: rgb(253, 1, 127);
+   }
